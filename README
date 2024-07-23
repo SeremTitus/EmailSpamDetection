@@ -1,4 +1,4 @@
 ## GET STARTED
 - Run ''' pip install -r req.txt '''
-- To train model run train_spam_detection.ipynb
+- To train model run train_spam_detection.ipynb (optional: spam_model.model is a saved trained model)
 - Then use.py to test and run the model
