@@ -25,8 +25,8 @@ print("For example: " + message)
 predict(message)
 
 while True:
-  new_mess = input("(press ctrl + C to close) Enter your mail to check: ")
-  print("Results For: " + message)
+  new_mess = input("\npress ctrl + C to close) Enter your mail to check: ")
+  print("\nResults For: " + message)
   predict(new_mess)
 
   
